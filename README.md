@@ -1,35 +1,23 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://stutig08.github.io/stutig-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Stuti Garg | Telling Stories with Data
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Welcome to my public portfolio for Telling Stories with Data at Carnegie Mellon University. This site documents my work throughout the course, including data visualization exercises, critiques, and my final project.
+- Portfolio: https://stutig08.github.io/stutig-portfolio/
+- Repository: https://github.com/stutig08/stutig-portfolio/
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I'm Stuti Garg, a graduate student at Carnegie Mellon University's School of Architecture studying sustainable and resilient design. My work focuses on sustainability in the built environment, particularly building performance, energy, embodied carbon, and life-cycle assessment.
+
+I am interested in how complex environmental and building-performance data can be communicated in ways that are clear, accessible, and useful for decision-making. Through my academic and professional work, I frequently work with technical datasets, and I hope to strengthen how I translate those datasets into compelling visual stories.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Through Telling Stories with Data, I hope to become more intentional about how I communicate quantitative information. I want to learn how to choose appropriate visualization methods, simplify complex datasets without losing important context, and use design and narrative to make data more understandable.
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I am particularly interested in applying these skills to sustainability and the built environment, where data related to energy, carbon, climate, and building performance can often be technically complex. After graduation, I hope to continue working at the intersection of sustainability, building performance, and data-driven decision-making.
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+This is my public portfolio for Telling Stories with Data at CMU! Here's where all my cool work will go. You should probably hire me.
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -44,13 +32,6 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
 
 ### Creating tables
 
