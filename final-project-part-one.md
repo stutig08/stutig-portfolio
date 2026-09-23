@@ -1,10 +1,8 @@
-[Home](index.md) | [Final Project Part I](final_project_StutiGarg.md)
+<img width="826" height="817" alt="06_triage" src="https://github.com/user-attachments/assets/e99648a9-1d7e-4761-8409-69d034e9d8d0" />[Home](index.md) | [Final Project Part I](final_project_StutiGarg.md)
 
 # Final Project Part I: Condemned Is Not the Same as Gone
 
 *Which of Pittsburgh's condemned buildings are still worth saving?*
-
-Stuti Garg | 94870 Telling Stories with Data | Fall 2026
 
 ---
 
@@ -36,25 +34,25 @@ My project is a data story for City of Pittsburgh staff, mainly the Department o
 These are rough storyboard sketches in the order the story would unfold. A few of them use the real data so I could sanity-check the patterns, but they're not final charts. The carbon chart and the triage scatter use placeholder values.
 
 **Sketch 1: Title / hook (Setup)**
-![Sketch 1: hook](sketches/01_hook.png)
+<img width="941" height="620" alt="01_hook" src="https://github.com/user-attachments/assets/d741fb51-85bc-4f1d-9a12-720616baebc4" />
 
 **Sketch 2: How old are they? (Setup)**
-![Sketch 2: year built histogram](sketches/02_age.png)
+<img width="974" height="620" alt="02_age" src="https://github.com/user-attachments/assets/3f30bd0b-9f96-4ec9-a0fa-ba10d91adc3f" />
 
 **Sketch 3: How dangerous are they really? (Rising tension)**
-![Sketch 3: PLI score bar chart](sketches/03_scores.png)
+<img width="1127" height="621" alt="03_scores" src="https://github.com/user-attachments/assets/b61a8c5a-2286-4a9e-b17d-ae4b5fe3a1da" />
 
 **Sketch 4: Where are they? (Rising tension)**
-![Sketch 4: dot map](sketches/04_map.png)
+<img width="959" height="817" alt="04_map" src="https://github.com/user-attachments/assets/aa3d65de-3389-4926-bdbd-4e6d0b350f57" />
 
 **Sketch 5: The carbon cost of a teardown (Turning point)**
-![Sketch 5: carbon comparison](sketches/05_carbon.png)
+<img width="941" height="620" alt="05_carbon" src="https://github.com/user-attachments/assets/1b83a191-8889-40a7-83ba-caacf050b49d" />
 
 **Sketch 6: Triage matrix (Resolution)**
-![Sketch 6: triage matrix](sketches/06_triage.png)
+<img width="826" height="817" alt="06_triage" src="https://github.com/user-attachments/assets/e397d0fd-6cfb-4e72-a9c3-337567bf5d77" />
 
 **Sketch 7: Reuse check (Call to action)**
-![Sketch 7: call to action](sketches/07_cta.png)
+<img width="941" height="620" alt="07_cta" src="https://github.com/user-attachments/assets/74873e40-41b4-481e-9584-c90777eb3e30" />
 
 ## The data
 
