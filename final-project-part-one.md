@@ -1,5 +1,3 @@
-[pli_condemned_properties_raw_2026-09-23.csv](https://github.com/user-attachments/files/32584507/pli_condemned_properties_raw_2026-09-23.csv)<img width="826" height="817" alt="06_triage" src="https://github.com/user-attachments/assets/e99648a9-1d7e-4761-8409-69d034e9d8d0" />[Home](index.md) | [Final Project Part I](final_project_StutiGarg.md)
-
 # Final Project Part I: Condemned Is Not the Same as Gone
 
 *Which of Pittsburgh's condemned buildings are still worth saving?*
