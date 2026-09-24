@@ -87,3 +87,7 @@ Allegheny County Office of Property Assessments. (2026). *Allegheny County Prope
 
 City of Pittsburgh. (n.d.). *Condemned properties for demolition.* Engage Pittsburgh. Retrieved September 23, 2026, from https://engage.pittsburghpa.gov/pli-demolition-engagement
 
+## Use of AI
+
+It helped me refine my topic based on the available data, draft and edit the written sections, and edit the WPRDC datasets. I checked the key figures and made the final decisions on content and structure.
+
