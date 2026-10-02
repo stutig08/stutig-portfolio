@@ -21,7 +21,7 @@ The Part I feedback gave me a few clear directions, and I built them into this d
 
 The story moves through eight parts, each with one main message and one main visual. The overview below shows the full sequence. The [draft StoryMap](https://arcg.is/0rSOGK1) builds these out with an interactive map, neighborhood zooms, and a swipe comparison.
 
-![Storyboard overview](storyboard/00_storyboard_overview.png)
+![Storyboard overview](00_storyboard_overview.png)
 
 | # | Section | Main message | Visual |
 |---|---|---|---|
@@ -38,29 +38,29 @@ The story moves through eight parts, each with one main message and one main vis
 
 **1. Hook.** The story opens with one big number instead of a chart: 2,359 condemned buildings are still standing, but only 9 are rated imminently dangerous and 672 are rated intact.
 
-![Hook](storyboard/01_hook.png)
+![Hook](01_hook.png)
 
 **2. How dangerous are they?** Score 1 is blue and score 4 is orange; scores 2 and 3 stay grey. Buildings scored 0 (not on the city's scale) or with no score are listed in the source note.
 
-![PLI scores](storyboard/02_scores.png)
+![PLI scores](02_scores.png)
 
 **3. Who are these buildings?** About 94% of buildings with a known build year went up before 1940. The note flags that 588 records list exactly 1900, which looks like a placeholder year.
 
-![Year built](storyboard/03_year_built.png)
+![Year built](03_year_built.png)
 
 **4. Where are they?** In the StoryMap this is an interactive map: dots colored by inspection score over neighborhoods shaded by count. Clicking a building shows its address, year built, exterior, stories, living area, inspection score, and draft triage group. The sidecar zooms into Perry South, the Homewood and Lincoln-Lemington-Belmar area, and Hazelwood, then switches to a tract layer showing housing complaints.
 
-![Map](storyboard/04_map.png)
+![Map](04_map.png)
 
 **5. The math doesn't work.** From 2021 to 2025, the city issued an average of 157 full demolition permits a year. At that pace, clearing today's list would take at least 15 years, even if nothing new were condemned. I kept the two numbers separate instead of putting them on two y-axes. The StoryMap follows this with a swipe map comparing condemned buildings and demolition permits.
 
-![Demolition pace](storyboard/05_demolition_pace.png)
+![Demolition pace](05_demolition_pace.png)
 
 **6. The carbon cost of a teardown.** Still in progress until I choose a per-square-foot embodied carbon benchmark.
 
 **7. A better way to decide.** A grid of PLI score against a draft reuse screen (built before 1940, masonry exterior). With this rule, 640 buildings land in "save first," 229 in "salvage," 1,052 in "mothball," and 26 in "demolish." The rule is a starting point, and I want to keep testing whether it makes sense to readers.
 
-![Triage](storyboard/06_triage.png)
+![Triage](06_triage.png)
 
 **8. Call to action.** A four-step reuse check the city could run before approving a city-funded demolition.
 
@@ -163,4 +163,4 @@ Data files: [data folder](https://github.com/stutig08/stutig-portfolio/tree/main
 
 ## AI acknowledgements
 
-I used Claude (Anthropic) as an assistant on this part of the project. It prepared the data files and gave me guidance for building the web map and StoryMap, and I built the web map and StoryMap in ArcGIS myself, published the census tract layer from my own GIS coursework, conducted all of the interviews, and wrote the findings and planned changes based on what my interviewees told me.
+I used Claude (Anthropic). It prepared the data files and gave me guidance for building the web map and StoryMap, and I built the web map and StoryMap in ArcGIS myself, published the census tract layer from my own GIS coursework, conducted all of the interviews, and wrote the findings and planned changes based on what my interviewees told me.
