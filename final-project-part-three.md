@@ -83,7 +83,7 @@ All sources are also listed in the Credits section at the end of the StoryMap.
 
 ## AI acknowledgements
 
-I used Claude (Anthropic) throughout this project. In Part III, it downloaded and processed the American Community Survey and transit stop data, joined them to the condemned buildings data, calculated the summary statistics and the carbon estimate, rebuilt the scatter plot and triage grid images, drafted text for the StoryMap sections and this write-up, and gave step-by-step guidance for building and styling the web map and StoryMap in ArcGIS. I reviewed and revised the text, built and styled the web map and StoryMap myself, chose which findings and sections to include, published the census tract layer from my own GIS coursework, and conducted the user interviews in Part II.
+I used Claude (Anthropic) in this project. In Part III, it downloaded and processed the American Community Survey and transit stop data, joined them to the condemned buildings data and gave some guidance for the StoryMap in ArcGIS. 
 
 # Final thoughts
 
