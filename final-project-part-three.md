@@ -33,8 +33,7 @@ The interviews pulled the story in two directions. My interviewees were graduate
 Specific adjustments for this audience:
 
 - **Use the city's own terms.** The story uses the city's 1 to 4 inspection scale and labels exactly as PLI defines them, so staff can map the story directly onto their own records.
-- **End with a concrete action, not a general plea.** The Next Steps section is a four-question reuse check that could fit into an existing demolition review, plus a downloadable list of the 640 "save first" buildings, sorted with transit-accessible buildings first.
-- **Be careful with claims.** Captions note where a chart shows a pattern rather than a cause, where a number is an upper-end estimate, and where the triage is a draft rule rather than a city standard. For a policy audience, overclaiming would cost credibility.
+The Next Steps section is a four-question reuse check that could fit into an existing demolition review, plus a downloadable list of the 640 "save first" buildings, sorted with transit-accessible buildings first.
 
 ## Final design decisions
 
